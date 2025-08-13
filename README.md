@@ -10,3 +10,20 @@ This repository is free for personal, research, and educational use.
 
 Commercial use of any part of this repository is prohibited without explicit written permission.
 
+## Adopt Your Magical Creature: SQL Querying & Database Design Challenge
+
+This repository includes two database files you can use for the **Adopt Your Magical Creature: SQL Querying & Database Design Challenge** activity:
+
+- `adopt_your_magical_creature.db` (SQLite database)
+- `adopt_your_magical_creature.sql` (SQL script to create and populate the database)
+
+These files are provided for **personal, research, and educational use only**.  
+They are licensed under the [Creative Commons Attribution–NonCommercial 4.0 International License](./data/LICENSE), which means:
+- You can copy, share, and adapt them for non-commercial purposes.
+- You cannot use them for commercial purposes.
+- You must give appropriate credit and indicate if changes were made.
+
+If you are unsure whether your intended use is allowed, please review the license terms or contact:
+
+**Brook Batch**  
+**Brook.Batch@msj.edu**
